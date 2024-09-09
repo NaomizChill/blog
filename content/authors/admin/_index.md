@@ -1,18 +1,18 @@
 ---
 # Display name
-title: 吳健雄
+title: Илья Колонтырский
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+name_pronunciation: Ilya Kolontyrskiy
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Ilya
+last_name: Kolotyrskiy
 
 # Status emoji
 status:
   icon: ☕️
-
+  
 # Is this the primary user of the site?
 superuser: true
 
@@ -20,87 +20,59 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Chief Scientist
+role: Студент
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: OpenAI
-    url: https://openai.com/
+  - name: Российский Университет Дружбы Народов
+    url:  https://www.rudn.ru/
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
-  - icon: at-symbol
-    url: 'mailto:your-email@example.com'
-    label: E-mail Me
-  - icon: brands/x
-    url: https://twitter.com/GetResearchDev
-  - icon: brands/instagram
-    url: https://www.instagram.com/
-  - icon: brands/github
-    url: https://github.com/gcushen
-  - icon: brands/linkedin
-    url: https://www.linkedin.com/
+  - icon: academicons/pubmed
+    url: https://elibrary.ru/
+    label: elibrary
   - icon: academicons/google-scholar
-    url: https://scholar.google.com/
+    url:  https://scholar.google.com/
+  - icon: academicons/mendeley
+    url:  https://www.mendeley.com/
+  - icon: brands/github
+    url: https://github.com/ibrahimalkamal
+  - icon: academicons/researchgate
+    url:  https://www.researchgate.net
+  - icon: academicons/academia
+    url: https://www.academia.edu/
   - icon: academicons/orcid
     url: https://orcid.org/
+  - icon: academicons/arxiv
+    url:  https://arxiv.org/
 
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Программирование
+  - Linux
+  - Кибербезопасность
 
 education:
-  - area: PhD Artificial Intelligence
-    institution: Stanford University
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+  - area: Студент
+    institution: РУДН
+    date_start: 2023-09-01
+    date_end: 
     summary: |
-      Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
+      
     button:
       text: 'Read Thesis'
-      url: 'https://example.com'
-  - area: MEng Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    summary: |
-      GPA: 3.8/4.0
-
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - area: BSc Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    summary: |
-      GPA: 3.4/4.0
-      
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      url: 'https://www.rudn.ru'
+ 
+ 
 work:
-  - position: Director of Cloud Infrastructure
-    company_name: GenCoin
+ 
+  - position: Backend Software Engineer
+    company_name: GASOR 
     company_url: ''
     company_logo: ''
     date_start: 2021-01-01
-    date_end: ''
-    summary: |2-
-      Responsibilities include:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - position: Backend Software Engineer
-    company_name: X
-    company_url: ''
-    company_logo: ''
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+    date_end: 2022-12-31
     summary: |
       Responsibilities include:
       - Migrated infrastructure to a new data center
@@ -112,42 +84,55 @@ work:
 skills:
   - name: Technical Skills
     items:
-      - name: Python
+      - name: Project Management
         description: ''
-        percent: 80
+        percent: 65
+        icon: camera
+      - name: Arduino Development
+        description: ''
+        percent: 90
         icon: code-bracket
-      - name: Data Science
+      - name: Python Programming
         description: ''
-        percent: 100
+        percent: 89
+        icon: code-bracket
+      - name: CI/CD Pipelines
+        description: ''
+        percent: 56
+        icon: camera
+      - name: Database Management
+        description: ''
+        percent: 98
         icon: chart-bar
-      - name: SQL
-        description: ''
-        percent: 40
-        icon: circle-stack
   - name: Hobbies
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
-      - name: Hiking
+      - name: Reading Technology Blogs
         description: ''
         percent: 60
-        icon: person-simple-walk
-      - name: Cats
+        icon: chart-bar
+      - name: DIY Electronics Projects
         description: ''
         percent: 100
-        icon: cat
+        icon: chart-bar
       - name: Photography
         description: ''
         percent: 80
         icon: camera
+      - name: Coding Challenges
+        description: ''
+        percent: 80
+        icon: code-bracket
+
 
 languages:
   - name: English
     percent: 100
-  - name: Chinese
-    percent: 75
-  - name: Portuguese
-    percent: 25
+  - name: Russian
+    percent: 89
+  - name: Arabic
+    percent: 100
 
 # Awards.
 #   Add/remove as many awards below as you like.
@@ -183,4 +168,4 @@ awards:
 
 ## About Me
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Илья Колонтырский, я студент Российского университета дружбы народов. Мои интересы включают программирование на языках Python, C++, математику и управление проектами. Я принимал участие во многих инженерных и программных проектах.
