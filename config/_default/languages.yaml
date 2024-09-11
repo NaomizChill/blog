@@ -13,25 +13,25 @@ ru:
   menu:
     main:
       - name: Био
-        url: /ru/
+        url: https://naomizchill.github.io/ru/
         weight: 10
       - name:  Доклады
-        url: /ru/#papers
+        url: https://naomizchill.github.io/ru/#papers
         weight: 20
       - name: Выступления
-        url: /ru/#talks
+        url: https://naomizchill.github.io/ru/#talks
         weight: 30
       - name: Новости
-        url: /ru/#news
+        url: https://naomizchill.github.io/ru/#news
         weight: 40
       - name: Опыт
-        url: /ru/'experience'
+        url: https://naomizchill.github.io/ru/'experience'
         weight: 50
       - name: Проекты
-        url: /ru/'projects'
+        url: https://naomizchill.github.io/ru/'projects'
         weight: 60
       - name: Преподавание
-        url: /ru/teaching/
+        url: https://naomizchill.github.io/ru/teaching/
         weight: 60
       
       
